@@ -1,0 +1,3 @@
+fo_home_homepage:
+    pattern:  /
+    defaults: { _controller: FoHomeBundle:Default:index }

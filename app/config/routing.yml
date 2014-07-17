@@ -1,0 +1,4 @@
+fo_home:
+    resource: "@FoHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+
